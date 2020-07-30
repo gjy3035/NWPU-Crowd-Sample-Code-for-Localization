@@ -103,9 +103,10 @@ The Evaluation Python Code of the ```crowdbenchmark.com``` is shown in ```./eval
 If you find this project is useful for your research, please cite:
 ```
 @article{gao2020nwpu,
-  title={NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting and Localization},
+  title={NWPU-Crowd: A Large-Scale Benchmark for Crowd Counting},
   author={Wang, Qi and Gao, Junyu and Lin, Wei and Li, Xuelong},
-  journal={arXiv preprint arXiv:2001.03360},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  doi={10.1109/TPAMI.2020.3013269},
   year={2020}
 }
 ```
