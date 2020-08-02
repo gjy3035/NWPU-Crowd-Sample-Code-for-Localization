@@ -76,7 +76,7 @@ We only provide an example to forward the model on the test set. You may need to
 
 ## Pre-trained Models
 
-We provide the pre-trained models in this [link](). 
+We provide the pre-trained models in this [link](http://share.crowdbenchmark.com:2443/home/Pre-trained_Models_NWPU-Crowd). 
 
 # Performance on the validation set
 
