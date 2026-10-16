@@ -21,7 +21,7 @@ This repo is the official crowd localization implementation of [paper](https://a
     ```
     
 - Data Preparation
-  - Download NWPU-Crowd dataset from this [link](https://mailnwpueducn-my.sharepoint.com/personal/gjy3035_mail_nwpu_edu_cn/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fgjy3035%5Fmail%5Fnwpu%5Fedu%5Fcn%2FDocuments%2F%E8%AE%BA%E6%96%87%E5%BC%80%E6%BA%90%E6%95%B0%E6%8D%AE%2FNWPU%2DCrowd&originalPath=aHR0cHM6Ly9tYWlsbndwdWVkdWNuLW15LnNoYXJlcG9pbnQuY29tLzpmOi9nL3BlcnNvbmFsL2dqeTMwMzVfbWFpbF9ud3B1X2VkdV9jbi9Fc3ViTXA0OHd3SkRpSDBZbFQ4Mk5ZWUJtWTlMMHMtRnByckJjb2FBSmtJMXJ3P3J0aW1lPWdxTkxjV0dTMTBn). 
+  - Download NWPU-Crowd dataset from this [Huggingface](https://huggingface.co/datasets/Junyu3/NWPU-Crowd). 
   - Unzip ```*zip``` files in turns and place ```images_part*``` into a folder. Finally, the folder tree is below:
   ```
     -- NWPU-Crowd
